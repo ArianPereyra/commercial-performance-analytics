@@ -63,4 +63,4 @@ Estos resultados describen únicamente un **dataset simulado**. Las recomendacio
 
 ## Autor
 
-**Arian Rizaga** — Proyecto individual de análisis comercial y Business Intelligence.
+**Arian Pereyra** — Proyecto individual de análisis comercial y Business Intelligence.
